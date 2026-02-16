@@ -6,4 +6,5 @@ matplotlib
 joblib
 sklearn
 plotly
+scikit-learn
 

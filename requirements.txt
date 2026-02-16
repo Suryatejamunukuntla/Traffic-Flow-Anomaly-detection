@@ -5,4 +5,5 @@ seaborn
 matplotlib
 joblib
 sklearn
-ploty
+plotly
+
